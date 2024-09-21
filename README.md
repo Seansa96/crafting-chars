@@ -1,31 +1,25 @@
-# crafting-chars
-**Shawnzvk - JC - Gemcutting. Can do:**
+## **Shawnzvk - JC - Gemcutting. Can do:**
 
-**Deadly Emerald/Masterful Emerald (Haste+Crit/Haste+Mastery) - 2 star with cheap mats, 3 star with r3**
+Emeralds/Rubies near maxed.
+R3 Blasphemite with conc
 
-**Quick Onyx (Mastery+Haste) - 2 star with cheap mats, 3 star with r3**
+Working on Masonry for gemstones.
 
-**Masterful Ruby/Quick Ruby (Crit+Mastery/Crit+Haste) - 2 star with cheap mats, 3 star with r3**
-
-**No sapphires atm**
-
-Can do R3 Blasphemite with R3 mats. If I have spare concentration can take cheaper.
-
-**Shawnzdh - LW/BS**.
+## **Shawnzdh - LW/BS** - Leather Armor and Plate Armor
 Has to be Guild Order, on a different server.
 Can do:
 
-#### Leather
+**Leather**
 **590 Feet and 590 Waist, with embellishments.**
 
 **590 Hands, Legs, Wrists, Shoulders, Head, Chest without embellishments. Missives OK, might need concentration.**
 
-#### Plate
+**Plate**
 **590 Wrists/Belt/Hands with or without embellishments and missives**.
 Head/Shoulders/Feet coming soon.
 
 
-**Blueboy - Enchanting**
+## **Blueboy - Enchanting** - Weapon and Throughput Enchants
 Has to be Guild Order, on a different server
 Can do:
 
@@ -33,8 +27,19 @@ Can do:
 
 **Have all crest recipes as well**
 
-**Shawnzlock - Tailoring**
-Can do:
+## **Shawnzlock - Tailoring** - Cloth Armor
 
-590 Cloak, Feet, Hands
+
+Cloak - Guaranteed R5 with 2 star pretty sure
+Feet/Hands - Need R3 mats and conc
+
+## Shawnzx
+
+Rings/Necks/Profession Tools
+BS Weapons
+
+## Shawnzdk
+
+Inscriptions staves and off hands/treatises (all)
+Alchemy = dogshit rn
 
